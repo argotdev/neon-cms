@@ -1,6 +1,6 @@
-# Neon CMS with ParadeDB Search
+# Neon CMS with pg_search
 
-A production-ready CMS built with Next.js 14, Neon Postgres, and ParadeDB's BM25 search.
+A  CMS built with Next.js 14, Neon Postgres, and ParadeDB's pg_search.
 
 ## Quick Start
 
