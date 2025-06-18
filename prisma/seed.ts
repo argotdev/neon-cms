@@ -22,6 +22,12 @@ async function main() {
       body: 'Tips and tricks for working with serverless databases...',
       tags: ['serverless', 'database', 'best-practices'],
     },
+    {
+      title: 'PostgreSQL Performance Tuning for Serverless',
+      slug: 'postgresql-performance-serverless',
+      body: 'Optimize your Neon Postgres database with these advanced tuning techniques for serverless deployments...',
+      tags: ['postgres', 'performance', 'serverless', 'neon'],
+    }
   ];
 
   for (const post of posts) {
